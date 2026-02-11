@@ -45,7 +45,6 @@ Let's elicit requirements and deliver value — drop a message! 📊
 ### 🎓 Certifications & Achievements
 <p align="center">
   <img src="https://img.shields.io/badge/Currently_Pursuing-Business_Analysis-blue?style=for-the-badge&logo=google&logoColor=white" alt="Business Analysis Studies"/>
-  <img src="https://img.shields.io/badge/Excel_for_Business-Intermediate-217346?style=for-the-badge&logo=microsoft excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Power_BI_Basics-00BFFF?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" title="In Progress"/>
   <img src="https://img.shields.io/badge/SQL_for_Data_Analysis-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <!-- Add your real certs here, e.g. Google Data Analytics, ECBA prep, etc. -->

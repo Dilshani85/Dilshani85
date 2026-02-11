@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilshani Jayathissa</h1>
 <h3 align="center">🎓 An IT Undergraduate (Information Systems Engineering) at SLIIT | Aspiring Business Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshani85&label=Profile%20views&color=0e75b6&style=flat" alt="dilshani85" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dilshani85&label=Profile%20views&color=0e75b6&style=flat" alt="dilshani85" /> </p>
 
 ---
 

@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dilshani85"> <!-- Update with your real LinkedIn if available -->
+  <a href="https://www.linkedin.com/in/dilshani-jayathissa-031934359"> <!-- Update with your real LinkedIn if available -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:your.email@example.com"> <!-- Update with your email -->

@@ -58,7 +58,7 @@ Let's elicit requirements and deliver value — drop a message! 📊
 </p>
 
 **Core tools in my student toolkit:**
-- **Analysis & Modeling**: Microsoft Visio / Lucidchart / Draw.io (BPMN, UML), Jira / Trello (Agile tracking)
+- **Analysis & Modeling**: Microsoft Visio / Lucidchart / Draw.io (BPMN, UML), Jira / Trello ( Agile tracking )
 - **Data & Visualization**: Excel (advanced formulas, PivotTables), Power BI, Google Data Studio
 - **Querying & Automation**: SQL, Python (pandas for data cleaning), basic scripting
 - **Documentation**: Confluence-style Markdown, user stories, BRD / SRS templates

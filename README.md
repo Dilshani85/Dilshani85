@@ -27,7 +27,7 @@
 Specializing in requirements elicitation, process modeling (BPMN/UML), stakeholder interviews, data analysis for insights, user stories, Agile/Scrum practices, and creating impactful business cases.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=00BFFF&center=true&vCenter=true&width=380&lines=Understand.+Analyze.+Deliver.;Business+Needs+--+Solutions+Loading...;Value+Doesn't+Wait+--+Neither+Do+I." alt="Mini BA Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=00BFFF&center=true&vCenter=true&width=500&lines=Understand.+Analyze.+Deliver.;Business+Needs+--+Solutions+Loading...;Value+Doesn't+Wait+--+Neither+Do+I." alt="Mini BA Typing"/>
 </div>
 
 <br>

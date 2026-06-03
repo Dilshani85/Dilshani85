@@ -72,17 +72,17 @@ Let's elicit requirements and deliver value — drop a message! 📊
   <img src="https://img.shields.io/badge/Project%20Coverage-Student%20Level-brightgreen?style=for-the-badge" alt="Project Coverage"/>
 </p>
 
-- **[business-requirements-portfolio](https://github.com/Dilshani85/business-requirements-portfolio)**  
-  📋 Collection of sample BRDs, user stories, and process flows • Elicitation + prioritization examples
+- **[Apex – Sports Club Management System](https://github.com/Dilshani85/apex-sports-club-management)**
+  ⚽ Requirements analysis, system design & development • Role-based access, inventory tracking, attendance and payment management
 
-- **[sales-dashboard-powerbi](https://github.com/Dilshani85/sales-dashboard-powerbi)**  
-  📊 Power BI sales performance dashboard • Data cleaning, DAX measures, interactive visuals
+- **[LeafyMart – Smart Plant Store Management System](https://github.com/Dilshani85/leafymart-smart-plant-store)**
+  🌿 Requirement gathering, UML modeling & MERN development • Inventory, order and sales management
 
-- **[process-modeling-bpmn](https://github.com/Dilshani85/process-modeling-bpmn)**  
-  🔄 BPMN diagrams for order-to-cash / procure-to-pay • Improvement recommendations
+- **[PetLife-Co – Pet Care System](https://github.com/Dilshani85/petlife-co-petcare-system)**
+  🐾 Team Leader • Requirement analysis, SRS preparation, UML diagrams & project documentation
 
-- **[agile-user-story-mapping](https://github.com/Dilshani85/agile-user-story-mapping)**  
-  🗺️ User story maps + backlog prioritization for a mock e-commerce app
+- **[Hotel Management System](https://github.com/Dilshani85/hotel-management-system)**
+  🏨 Desktop application for hotel operations • Reservation, guest and billing management with database integration
 
 More coming: Stakeholder analysis templates, SQL business queries, case study write-ups...
 

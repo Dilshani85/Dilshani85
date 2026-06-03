@@ -72,7 +72,7 @@ Let's elicit requirements and deliver value — drop a message! 📊
   <img src="https://img.shields.io/badge/Project%20Coverage-Student%20Level-brightgreen?style=for-the-badge" alt="Project Coverage"/>
 </p>
 
-- **[Apex – Sports Club Management System](https://github.com/Dilshani85/apex-sports-club-management)**
+- **[Apex – Sports Club Management System](https://github.com/Dilshani85/Apex.git)**
   ⚽ Requirements analysis, system design & development • Role-based access, inventory tracking, attendance and payment management
 
 - **[LeafyMart – Smart Plant Store Management System](https://github.com/Dilshani85/leafymart-smart-plant-store)**

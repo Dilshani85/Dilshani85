@@ -75,13 +75,13 @@ Let's elicit requirements and deliver value — drop a message! 📊
 - **[Apex – Sports Club Management System](https://github.com/Dilshani85/Apex.git)**
   ⚽ Requirements analysis, system design & development • Role-based access, inventory tracking, attendance and payment management
 
-- **[LeafyMart – Smart Plant Store Management System](https://github.com/Dilshani85/leafymart-smart-plant-store)**
+- **[LeafyMart – Smart Plant Store Management System](https://github.com/Dilshani85/Leafy-Mart.git)**
   🌿 Requirement gathering, UML modeling & MERN development • Inventory, order and sales management
 
-- **[PetLife-Co – Pet Care System](https://github.com/Dilshani85/petlife-co-petcare-system)**
+- **[PetLife-Co – Pet Care System](https://github.com/Dilshani85/PetLifeCo.git)**
   🐾 Team Leader • Requirement analysis, SRS preparation, UML diagrams & project documentation
 
-- **[Hotel Management System](https://github.com/Dilshani85/hotel-management-system)**
+- **[Hotel Management System](https://github.com/Dilshani85/Hotel-Management-System.git)**
   🏨 Desktop application for hotel operations • Reservation, guest and billing management with database integration
 
 More coming: Stakeholder analysis templates, SQL business queries, case study write-ups...
